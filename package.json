@@ -1,0 +1,31 @@
+{
+    "name": "img-reduce-size-js",
+    "version": "1.0.0",
+    "description": "Reduce image using js ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arsalan171/img-resize-js.git"
+    },
+    "keywords": [
+        "Resize",
+        "Image",
+        "Reduce",
+        "Image",
+        "Size",
+        "reduce",
+        "image",
+        "size",
+        "Image",
+        "Blob"
+    ],
+    "author": "Arsalan Akhtar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/arsalan171/img-resize-js/issues"
+    },
+    "homepage": "https://github.com/arsalan171/img-resize-js#readme"
+}
